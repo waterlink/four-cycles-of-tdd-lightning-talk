@@ -1,20 +1,8 @@
 # 4 Cycles of Test-Driven Development
 
-Ruby User Group. Berlin. 1st Sep 2016
+Pivotal Labs Berlin. 8 Sep 2016
 
 *(lightning version)*
-
-
-
-<img src="../my-presentation-template/me.jpeg" class="photo-me">
-
-## Oleksii Fedorov
-
-Software Craftsperson
-
-Software Engineer @ Pivotal Labs
-
-[@waterlink000](https://twitter.com/waterlink000)
 
 
 
@@ -73,14 +61,6 @@ Step back, look at the overall system, and see which architectural boundaries we
 *(these boundaries are hard to see in other cycles)*
 
 We make some informed decisions and steer our next nano-, micro- and milli- cycles. Until next primary cycle.
-
-
-
-## Small Announcement
-
-I am speaking @ [Codemotion Warsaw 2016](http://warsaw2016.codemotionworld.com/).
-
-Three **50%off tickets**. Talk to me if interested.
 
 
 
