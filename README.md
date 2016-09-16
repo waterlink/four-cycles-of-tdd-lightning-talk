@@ -82,6 +82,17 @@ Red-Green-Refactor:
 Add a specific failing test. Write a general code that passes the whole class of such tests. Triangulation technique and Transformation Priority Premise helps.
 
 
+### [bit.ly/triangulation-tdd](http://bit.ly/triangulation-tdd)
+
+(blog by TDD Fellow)
+
+##### -
+
+### [bit.ly/transformation-priority-premise](http://bit.ly/transformation-priority-premise)
+
+(blog by Uncle Bob)
+
+
 
 ## Primary Cycle
 
